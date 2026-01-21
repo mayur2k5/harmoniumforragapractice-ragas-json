@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "ragas": [
+    {
+      "id": "durga",
+      "name": "Durga",
+      "thaat": "Bilabal",
+      "arohaNotes": "s R m P D S",
+      "avarohaNotes": "S D P m R s"
+    },
+    {
+      "id": "asavari",
+      "name": "Asavari",
+      "thaat": "Asavari",
+      "arohaNotes": "s R m P d S",
+      "avarohaNotes": "S n d P m g R s"
+    }
+  ]
+}
