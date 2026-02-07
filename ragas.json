@@ -2,7 +2,7 @@
   "version": 1,
   "ragas": [
     {
-      "id": "1",
+      "id": "0",
       "name": "Durga;দুর্গা;दुर्गा",
       "thaat": "Bilabal;বিলাবল;बिलावल",
       "arohaNotes": "s R m P D S",
@@ -11,22 +11,31 @@
       "vadiSamvadiNotes": "m s"
     },
     {
-      "id": "2",
-      "name": "Asavari;আশাভরী;आशावरी",
-      "thaat": "Asavari;আশাভরী;आशावरी",
+      "id": "1",
+      "name": "Asavari;আশাবরী;आशावरी",
+      "thaat": "Asavari;আশাবরী;आशावरी",
       "arohaNotes": "s R m P d S",
       "avarohaNotes": "S n d P m g R s",
       "pakadNotes": "m P d m P g R s",
       "vadiSamvadiNotes": "d g"
     },
     {
-      "id": "3",
+      "id": "2",
       "name": "Kafi;কাফি;काफी",
-      "thaat": "Kafi;কাফি;काफीी",
+      "thaat": "Kafi;কাফি;काफी",
       "arohaNotes": "s R g m P D n S",
       "avarohaNotes": "S n D P m g R s",
       "pakadNotes": "g R;m P;m P D P;D n S;n D P",
       "vadiSamvadiNotes": "P R"
+    },
+    {
+      "id": "3",
+      "name": "Darbari Kanada;দরবারী কানাড়া;दरबारी कान्हड़ा",
+      "thaat": "Asavari;আশাবরী;आशावरी",
+      "arohaNotes": "n s R g R s m P d n S",
+      "avarohaNotes": "S d n P m P g m R s",
+      "pakadNotes": "g R R s d n S R",
+      "vadiSamvadiNotes": "s P"
     }
   ]
 }
