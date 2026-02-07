@@ -6,21 +6,27 @@
       "name": "Durga;দুর্গা;दुर्गा",
       "thaat": "Bilabal;বিলাবল;बिलावल",
       "arohaNotes": "s R m P D S",
-      "avarohaNotes": "S D P m R s"
+      "avarohaNotes": "S D P m R s",
+      "pakadNotes": "R m P D;m P D;m R;s R D S",
+      "vadiSamvadiNotes": "m s"
     },
     {
       "id": "2",
       "name": "Asavari;আশাভরী;आशावरी",
       "thaat": "Asavari;আশাভরী;आशावरी",
       "arohaNotes": "s R m P d S",
-      "avarohaNotes": "S n d P m g R s"
+      "avarohaNotes": "S n d P m g R s",
+      "pakadNotes": "m P d m P g R s",
+      "vadiSamvadiNotes": "d g"
     },
     {
       "id": "3",
       "name": "Kafi;কাফি;काफी",
       "thaat": "Kafi;কাফি;काफीी",
       "arohaNotes": "s R g m P D n S",
-      "avarohaNotes": "S n D P m g R s"
+      "avarohaNotes": "S n D P m g R s",
+      "pakadNotes": "g R;m P;m P D P;D n S;n D P",
+      "vadiSamvadiNotes": "P R"
     }
   ]
 }
