@@ -6,8 +6,8 @@
       "name": "Durga;দুর্গা;दुर्गा",
       "thaat": "Bilabal;বিলাবল;बिलावल",
       "arohaNotes": "s R m P D S",
-      "avarohaNotes": "S D P m R s",
-      "pakadNotes": "R m P D;m P D;m R;s R D S",
+      "avarohaNotes": "S D m, P D m, R D s",
+      "pakadNotes": "R m P D, m P D, m R, s R D S",
       "vadiSamvadiNotes": "m s"
     },
     {
@@ -16,7 +16,7 @@
       "thaat": "Asavari;আশাবরী;आशावरी",
       "arohaNotes": "s R m P d S",
       "avarohaNotes": "S n d P m g R s",
-      "pakadNotes": "m P d m P g R s",
+      "pakadNotes": "R m P d P, m P g R s",
       "vadiSamvadiNotes": "d g"
     },
     {
