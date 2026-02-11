@@ -2,7 +2,7 @@
   "version": 1,
   "ragas": [
     {
-      "id": "0",
+      "id": 0,
       "name": "Durga;দুর্গা;दुर्गा",
       "thaat": "BILAWAL",
       "arohaNotes": "s R m P D S",
@@ -11,7 +11,7 @@
       "vadiSamvadiNotes": "m s"
     },
     {
-      "id": "1",
+      "id": 1,
       "name": "Asavari;আশাবরী;आशावरी",
       "thaat": "ASAVARI",
       "arohaNotes": "s R m P d S",
@@ -20,7 +20,7 @@
       "vadiSamvadiNotes": "d g"
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Kafi;কাফি;काफी",
       "thaat": "KAFI",
       "arohaNotes": "s R g m P D n S",
@@ -29,7 +29,7 @@
       "vadiSamvadiNotes": "P R"
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Darbari Kanada;দরবারী কানাড়া;दरबारी कान्हड़ा",
       "thaat": "ASAVARI",
       "arohaNotes": "n s R g R s m P d n S",
