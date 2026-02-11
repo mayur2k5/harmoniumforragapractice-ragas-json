@@ -8,7 +8,9 @@
       "arohaNotes": "s R m P D S",
       "avarohaNotes": "S D m, P D m, R D s",
       "pakadNotes": "R m P D, m P D, m R, s R D S",
-      "vadiSamvadiNotes": "m s"
+      "vadiSamvadiNotes": "m s",
+      "time": "",
+      "desc": ""
     },
     {
       "id": 1,
@@ -17,7 +19,9 @@
       "arohaNotes": "s R m P d S",
       "avarohaNotes": "S n d P m g R s",
       "pakadNotes": "R m P d P, m P g R s",
-      "vadiSamvadiNotes": "d g"
+      "vadiSamvadiNotes": "d g",
+      "time": "",
+      "desc": ""
     },
     {
       "id": 2,
@@ -26,7 +30,9 @@
       "arohaNotes": "s R g m P D n S",
       "avarohaNotes": "S n D P m g R s",
       "pakadNotes": "g R, m P, m P D P, D n S, n D P",
-      "vadiSamvadiNotes": "P R"
+      "vadiSamvadiNotes": "P R",
+      "time": "",
+      "desc": ""
     },
     {
       "id": 3,
@@ -35,7 +41,9 @@
       "arohaNotes": "n s R g R s m P d n S",
       "avarohaNotes": "S d n P m P g m R s",
       "pakadNotes": "g R R s d n S R",
-      "vadiSamvadiNotes": "s P"
+      "vadiSamvadiNotes": "s P",
+      "time": "",
+      "desc": ""
     }
   ]
 }
