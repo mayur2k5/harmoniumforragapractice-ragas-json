@@ -165,6 +165,39 @@
       "vadiSamvadiNotes": "D G",
       "time": "",
       "desc": ""
+    },
+    {
+      "id": 15,
+      "name": "Malkauns;মালকোষ;मालकौंस",
+      "thaat": "BHAIRAVI",
+      "arohaNotes": "n s, g m, d, n S",
+      "avarohaNotes": "S n d, m, g m g s",
+      "pakadNotes": "m g, m d n d, m g, s",
+      "vadiSamvadiNotes": "m s",
+      "time": "",
+      "desc": ""
+    },
+    {
+      "id": 16,
+      "name": "Tilak Kamod;তিলক কামোদ;तिलक कामोद",
+      "thaat": "KHAMAJ",
+      "arohaNotes": "s R G s, R m P D m P S",
+      "avarohaNotes": "S P D m G, s R G, s N s",
+      "pakadNotes": "P N s R G, s, R P m G, s N s",
+      "vadiSamvadiNotes": "R P",
+      "time": "",
+      "desc": ""
+    },
+    {
+      "id": 17,
+      "name": "Pilu;পিলু;पीलू",
+      "thaat": "KAFI",
+      "arohaNotes": "N s, g R g, m P, d P n D P, S",
+      "avarohaNotes": "S n D P m g, n s",
+      "pakadNotes": "N s g N s, P d N s",
+      "vadiSamvadiNotes": "G n",
+      "time": "",
+      "desc": ""
     }
   ]
 }
