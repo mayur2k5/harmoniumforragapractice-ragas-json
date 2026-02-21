@@ -240,7 +240,7 @@
     },
     {
       "id": 13,
-      "name": "Alhaiya Bilawal;আলহাইয়া বিলাবল;अलहैया बिलावल",
+      "name": "Alhaiya Bilawal;আলাহিয়া বিলাবল;अलहैया बिलावल",
       "thaat": "BILAWAL",
       "jati" : "PP",
       "anga" : "U",
@@ -268,7 +268,7 @@
       "pakadLine": "G;P, N;D;N;S+",
       "otherLines": [],
       "vadiSamvadiNotes": "D G",
-      "nyasNotes": "",
+      "nyasNotes": "R G P D",
       "samay": "D1",
       "desc": "",
       "descBn": "",
